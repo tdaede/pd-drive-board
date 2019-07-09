@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "pd")(type "Legacy")(uri "${KIPRJMOD}/pd.lib")(options "")(descr ""))
+)
